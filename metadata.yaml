@@ -15,5 +15,7 @@
 homepage: "https://www.outfindo.com"
 documentation: "https://www.outfindo.com/resources/"
 versions:
+  - sha: bce2b36de4aeff2de5a3dda05db0d669b7b3c705
+    changeNotes: Fix template
   - sha: 84d81fe1f2d2abf4fbbff182418e832b46f130ee
     changeNotes: Initial Version
